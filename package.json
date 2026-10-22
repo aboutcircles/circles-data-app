@@ -1,6 +1,6 @@
 {
 	"engines": {
-		"node": "18.x"
+		"node": "22.x"
 	},
 	"name": "circles-interactive-web-app",
 	"version": "0.0.1",
